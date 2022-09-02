@@ -1,5 +1,5 @@
 #!/bin/bash
-M-! -p mkdir /tmp/to/my_first_directory
+M-x mkdir RET /tmp/to/my_first_directory
 
 
 
