@@ -1,5 +1,6 @@
 #!/bin/bash
-M-! mkdir /tmp/to/my_first_directory
+M-! -p mkdir /tmp/to/my_first_directory
+
 
 
 
